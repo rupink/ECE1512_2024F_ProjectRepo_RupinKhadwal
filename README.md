@@ -1,2 +1,3 @@
 # ECE1512_2024F_ProjectRepo_RupinKhadwal
 ECE1512 Projects
+Project A Done
