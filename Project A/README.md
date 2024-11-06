@@ -64,7 +64,3 @@ In the cells there are img pathways for the mhist dataset. Please provide the pa
 - The notebooks print out results such as training and testing accuracy and loss after each epoch.
 - The MHIST analysis aims at improving medical image classification, which has applications in healthcare and diagnostics.
 - The MNIST analysis serves as an introduction to CNN-based image classification tasks, often used in introductory machine learning courses.
-
----
-
-This README provides a general overview of the files and how to use them. Let me know if you need further adjustments!
